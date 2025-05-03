@@ -44,8 +44,7 @@ Collected from Hocus Pocus town by eHealth Africa. Fields include:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/covid-risk-prediction.git
-cd covid-risk-prediction
+git clone https://github.com/victornonso/covid-risk-prediction.git
 ```
 
 ### 2. Install Requirements
