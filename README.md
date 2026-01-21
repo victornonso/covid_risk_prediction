@@ -91,6 +91,6 @@ MIT License. See `LICENSE` for more details.
 
 ## 🧑‍💻 Authors
 
-Built with ❤️ by the eHealth Africa Data Science Team.
+Built with ❤️ by the victornonso.
 
 For inquiries: (mailto:victornonso44@gmail.com)
